@@ -1,4 +1,3 @@
-// Mock data for expenses
 let expenses = [];
 
 // Function to sign up
